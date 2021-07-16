@@ -9,11 +9,9 @@ channels:
   - r
 
 dependencies:
-  - pip:
-      - jupyterlab_latex
   - airflow
   - libgcc
-  - tensorflow >= 2.5
+  - tensorflow
   - Keras
   - jupyter-vscode-proxy
   - code-server >=3.2
