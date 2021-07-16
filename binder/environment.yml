@@ -9,6 +9,10 @@ channels:
   - r
 
 dependencies:
+  - pip:
+      - jupyterlab_latex
+  - nbserverproxy
+  - xarray
   - airflow
   - libgcc
   - tensorflow
