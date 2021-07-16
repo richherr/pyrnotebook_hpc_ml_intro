@@ -11,6 +11,7 @@ echo "Sys.setenv(LD_LIBRARY_PATH=paste(Sys.getenv('JAVA_HOME'),'/server'))" > /s
 code-server --install-extension ms-python.python
 
 pip install jupyterlab_latex
+pip install tensorflow==2.5.0
 
 ###############################################################
 
