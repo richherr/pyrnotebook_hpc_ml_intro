@@ -1,4 +1,5 @@
 # apt-get installs
+gfortran
 htop
 vim
 curl
