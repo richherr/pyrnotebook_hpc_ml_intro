@@ -11,6 +11,12 @@ channels:
 dependencies:
   - pip:
       - jupyterlab_latex
+  - nodejs
+  - h5py
+  - bottleneck
+  - requests
+  - nomkl
+  - pyarrow
   - nbserverproxy
   - xarray
   - airflow
