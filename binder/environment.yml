@@ -11,7 +11,7 @@ channels:
 dependencies:
   - pip:
       - jupyterlab_latex
-      - apache-airflow
+  - airflow
   - libgcc
   - tensorflow >= 2.5
   - Keras
