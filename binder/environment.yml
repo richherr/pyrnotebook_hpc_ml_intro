@@ -13,7 +13,7 @@ dependencies:
       - jupyterlab_latex
       - apache-airflow
   - libgcc
-  - gxx_linux-64
+  - gfortran
   - tensorflow == 2.5
   - Keras
   - jupyter-vscode-proxy
