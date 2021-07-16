@@ -11,6 +11,7 @@ channels:
 dependencies:
   - pip:
       - jupyterlab_latex
+  - pyjwt
   - nodejs
   - h5py
   - bottleneck
