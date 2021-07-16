@@ -15,8 +15,7 @@ dependencies:
   - libgcc
   - gxx_linux-64
   - tensorflow == 2.5
-  - keras-nightly == 2.5.0.dev2021032900
-  - numpy == 1.19.5 
+  - keras-nightly == 2.5
   - jupyter-vscode-proxy
   - code-server >=3.2
   - mrjob
