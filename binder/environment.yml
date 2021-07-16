@@ -13,7 +13,7 @@ dependencies:
       - jupyterlab_latex
       - apache-airflow
   - libgcc
-  - tensorflow == 2.5
+  - tensorflow >= 2.5
   - Keras
   - jupyter-vscode-proxy
   - code-server >=3.2
