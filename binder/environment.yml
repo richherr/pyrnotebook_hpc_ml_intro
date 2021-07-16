@@ -13,7 +13,9 @@ dependencies:
       - jupyterlab_latex
   - libgcc
   - gxx_linux-64
-  - numpy
+  - tensorflow == 2.5
+  - keras-nightly == 2.5.0.dev2021032900
+  - numpy == 1.19.5 
   - jupyter-vscode-proxy
   - code-server >=3.2
   - mrjob
@@ -49,7 +51,6 @@ dependencies:
   - pandocfilters
   - tensorboard
   - tensorboard-plugin-wit
-  - tensorflow
   - tensorflow-datasets
   - tensorflow-estimator
   - tensorflow-hub
@@ -58,7 +59,6 @@ dependencies:
   - torchtext
   - torchvision
   - tornado
-  - Keras
   - Keras-Preprocessing
   - matplotlib                    
   - matplotlib-venn
