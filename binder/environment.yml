@@ -11,6 +11,7 @@ channels:
 dependencies:
   - pip:
       - jupyterlab_latex
+  - python-graphviz
   - pyjwt
   - nodejs
   - h5py
@@ -40,6 +41,7 @@ dependencies:
   - scikit-learn
   - sklearn-pandas
   - dask
+  - dask-image
   - airflow-with-dask
   - dask-imread
   - dask_labextension
