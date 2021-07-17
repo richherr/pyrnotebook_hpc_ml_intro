@@ -16,6 +16,7 @@ system(paste("rm -rf ", path, sep=""))
 system("mkdir /tmp/new_tmp")
 set.tempdir("/tmp/new_tmp")
 
+install.packages("languageserver", repos="https://cloud.r-project.org/")
 install.packages("Rcpp", repos="https://cloud.r-project.org/")
 install.packages("tidyr", repos="https://cloud.r-project.org/")
 install.packages("leaflet", repos="https://cloud.r-project.org/")
