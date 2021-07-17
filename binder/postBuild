@@ -14,7 +14,7 @@ code-server --install-extension ms-python.python
 
 pip install jupyterlab_latex
 pip install tensorflow==2.5.0
-pip install mimesis nbserverproxy bokeh
+pip install mimesis bokeh
 
 
 ###############################################################
