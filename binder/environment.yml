@@ -11,6 +11,8 @@ channels:
 dependencies:
   - pip:
       - jupyterlab_latex
+  - jupyter-server-proxy 
+  - ipywidgets
   - python-graphviz
   - pyjwt
   - nodejs
