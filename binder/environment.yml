@@ -1,6 +1,7 @@
 name: pyrnotebook_hpc_ml_intro
 
 channels:
+
   - conda-forge
   - conda 
   - pytorch
@@ -9,6 +10,7 @@ channels:
   - r
 
 dependencies:
+
   - jupyter-server-proxy 
   - ipywidgets
   - python-graphviz
