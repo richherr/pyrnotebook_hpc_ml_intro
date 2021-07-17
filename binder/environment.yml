@@ -9,8 +9,6 @@ channels:
   - r
 
 dependencies:
-  - pip:
-      - jupyterlab_latex
   - jupyter-server-proxy 
   - ipywidgets
   - python-graphviz

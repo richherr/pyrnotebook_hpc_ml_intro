@@ -1,39 +1,39 @@
 # apt-get installs
-# graphviz
-# gfortran
-# htop
-# vim
-# curl
-# wget
-# net-tools
-# sysstat
-# ssh
-# pdsh
-# rsync
-# openjdk-8-jdk
-# telnet
-# scala
-# dvipng
-# ghostscript
-# texlive-fonts-recommended
-# texlive-generic-recommended
-# texlive-latex-base
-# texlive-latex-extra
-# texlive-latex-recommended
-# texlive-publishers
+graphviz
+gfortran
+htop
+vim
+curl
+wget
+net-tools
+sysstat
+ssh
+pdsh
+rsync
+openjdk-8-jdk
+telnet
+scala
+dvipng
+ghostscript
+texlive-fonts-recommended
+texlive-generic-recommended
+texlive-latex-base
+texlive-latex-extra
+texlive-latex-recommended
+texlive-publishers
 texlive-science
 texlive-xetex
-# lmodern
-# cm-super
-# freetds-bin
-# krb5-user
-# ldap-utils
-# libffi6
-# libsasl2-2
-# libsasl2-modules
-# libssl1.1
-# locales
-# lsb-release
-# sasl2-bin
-# sqlite3
-# unixodbc
+lmodern
+cm-super
+freetds-bin
+krb5-user
+ldap-utils
+libffi6
+libsasl2-2
+libsasl2-modules
+libssl1.1
+locales
+lsb-release
+sasl2-bin
+sqlite3
+unixodbc
