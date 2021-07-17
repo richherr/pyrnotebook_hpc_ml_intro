@@ -21,7 +21,6 @@ dependencies:
   - requests
   - nomkl
   - pyarrow
-  - nbserverproxy
   - xarray
   - airflow
   - libgcc
