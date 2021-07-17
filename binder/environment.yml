@@ -14,7 +14,7 @@ dependencies:
   - jupyter-server-proxy 
   - ipywidgets
   - python-graphviz
-  - pyjwt
+#   - pyjwt
   - nodejs
   - h5py
   - bottleneck
@@ -43,7 +43,7 @@ dependencies:
   - sklearn-pandas
   - dask
   - dask-image
-  - airflow-with-dask
+#   - airflow-with-dask
   - dask-imread
   - dask_labextension
   - dask-ml
