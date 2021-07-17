@@ -15,14 +15,14 @@ dependencies:
   - ipywidgets
   - python-graphviz
 #   - pyjwt
-  - nodejs
-  - h5py
-  - bottleneck
-  - requests
-  - nomkl
-  - pyarrow
-  - xarray
-  - airflow
+#   - nodejs
+#   - h5py
+#   - bottleneck
+#   - requests
+#   - nomkl
+#   - pyarrow
+#   - xarray
+#   - airflow
   - libgcc
   - tensorflow
   - Keras
