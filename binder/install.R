@@ -1,5 +1,3 @@
-install.packages("devtools", repos="https://cloud.r-project.org/")
-# install.packages("unixtools", contriburl=contrib.url(repos="http://rforge.net/",type# ="source"))
 devtools::install_github("sachsmc/ggkm")
 devtools::install_github("benjaminrich/table1")
 devtools::install_github("slowkow/ggrepel")
