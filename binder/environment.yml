@@ -12,6 +12,7 @@ channels:
 dependencies:
 
   - git
+  - gxx_linux-64
   - jupyter-server-proxy 
   - ipywidgets
   - python-graphviz
