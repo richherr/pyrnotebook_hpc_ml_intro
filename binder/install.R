@@ -1,10 +1,16 @@
+require(unixtools)
 devtools::install_github("sachsmc/ggkm")
 devtools::install_github("benjaminrich/table1")
 devtools::install_github("slowkow/ggrepel")
-devtools::install_github("s-u/unixtools")
-
 install.packages("tinytex", repos="https://cloud.r-project.org/")
 tinytex::install_tinytex()
+
+require(unixtools)
+path<-tempdir()
+system(paste("rm -rf ", path, sep=""))
+system("mkdir /tmp/new_tmp")
+set.tempdir("/tmp/new_tmp")
+
 install.packages("rvest", repos="https://cloud.r-project.org/")
 install.packages("reticulate", repos="https://cloud.r-project.org/")
 install.packages("tensorflow", repos="https://cloud.r-project.org/")
