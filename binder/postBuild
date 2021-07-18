@@ -1,5 +1,7 @@
 #!/bin/bash
 
+pip install gcc7
+
 git clone --recursive https://github.com/s-u/unixtools.git unixtools
 R CMD INSTALL unixtools
 
