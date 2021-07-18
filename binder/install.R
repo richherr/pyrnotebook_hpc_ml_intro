@@ -1,4 +1,3 @@
-
 install.packages("tinytex", repos="https://cloud.r-project.org/")
 tinytex::install_tinytex()
 install.packages("rvest", repos="https://cloud.r-project.org/")

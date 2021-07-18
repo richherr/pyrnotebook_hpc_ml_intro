@@ -11,6 +11,7 @@ channels:
 
 dependencies:
 
+  - 
   - jupyter-server-proxy 
   - ipywidgets
   - python-graphviz
@@ -126,6 +127,7 @@ dependencies:
   - oauth2client                  
   - oauthlib      
   - pytorch
+  - r-checkpoint
   - r-essentials
   - r-tensorflow
   - r-keras
