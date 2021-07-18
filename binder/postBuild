@@ -1,7 +1,5 @@
 #!/bin/bash
 
-conda install gxx_linux-64
-
 git clone --recursive https://github.com/s-u/unixtools.git unixtools
 R CMD INSTALL unixtools
 

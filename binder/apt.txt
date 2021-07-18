@@ -1,6 +1,7 @@
 # apt-get installs
 graphviz
 gfortran
+g++
 htop
 vim
 curl
