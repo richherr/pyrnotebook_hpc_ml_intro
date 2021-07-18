@@ -11,6 +11,7 @@ channels:
 
 dependencies:
 
+  - git
   - jupyter-server-proxy 
   - ipywidgets
   - python-graphviz
