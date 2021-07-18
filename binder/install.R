@@ -1,3 +1,4 @@
+install.packages("Rcpp", repos="https://cloud.r-project.org/")
 require(unixtools)
 devtools::install_github("sachsmc/ggkm")
 devtools::install_github("benjaminrich/table1")
