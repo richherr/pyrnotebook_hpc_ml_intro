@@ -1,9 +1,5 @@
 install.packages("Rcpp", repos="https://cran.microsoft.com/")
 install.packages("remotes", repos="https://cran.microsoft.com/")
-require(unixtools)
-remotes::install_github("sachsmc/ggkm")
-remotes::install_github("benjaminrich/table1")
-remotes::install_github("slowkow/ggrepel")
 install.packages("tinytex", repos="https://cran.microsoft.com/")
 tinytex::install_tinytex()
 
