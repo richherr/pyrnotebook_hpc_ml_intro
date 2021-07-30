@@ -82,7 +82,7 @@ dependencies:
   - oauth2client                  
   - oauthlib      
   - pytorch
-  - python                          
+#  - python                          
   - pip
   - pandas-profiling
   - plotly
