@@ -11,3 +11,6 @@
 
 ### OVH
 [![Binder](https://mybinder.org/badge_logo.svg)](https://ovh.mybinder.org/v2/gh/richherr/pyrnotebook_hpc_ml_intro/HEAD)
+
+### Pangeo
+[![Binder](https://mybinder.org/badge_logo.svg)](https://binder.pangeo.io/v2/gh/richherr/pyrnotebook_hpc_ml_intro/HEAD)
