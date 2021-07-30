@@ -1,5 +1,8 @@
 #!/bin/bash
 
+conda install gcc_linux-64
+conda install gxx_linux-64
+
 Rscript binder/Rcpp_install.R
 
 git clone --recursive https://github.com/s-u/unixtools.git unixtools
