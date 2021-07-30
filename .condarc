@@ -1,5 +1,4 @@
 show_channel_urls: true
 auto_update_conda: true
-show_channel_urls: true
 update_dependencies: true
 channel_priority: strict
