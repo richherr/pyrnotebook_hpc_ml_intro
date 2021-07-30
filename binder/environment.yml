@@ -1,4 +1,4 @@
-name: pyrnotebook_hpc_ml_intro
+name: pyrnotebook_hpc_ml.
 
 channels:
 
@@ -9,8 +9,15 @@ channels:
   - bioconda
   - r
 
+auto_update_conda: true
+show_channel_urls: true
+update_dependencies: true
+channel_priority: strict
+
 dependencies:
 
+  - xarray
+  - bottleneck
   - git
   - gcc_linux-64
   - jupyter-server-proxy 
@@ -128,6 +135,7 @@ dependencies:
   - oauth2client                  
   - oauthlib      
   - pytorch
+  - r-raster
   - r-devtools
   - r-checkpoint
   - r-essentials

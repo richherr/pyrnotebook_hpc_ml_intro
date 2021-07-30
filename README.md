@@ -8,3 +8,6 @@
 
 ### Turing (1 core - 2GB RAM)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://turing.mybinder.org/v2/gh/richherr/pyrnotebook_hpc_ml_intro/HEAD)
+
+### OVH
+[![Binder](https://mybinder.org/badge_logo.svg)](https://ovh.mybinder.org/v2/gh/richherr/pyrnotebook_hpc_ml_intro/HEAD)
