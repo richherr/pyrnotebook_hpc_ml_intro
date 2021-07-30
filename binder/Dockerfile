@@ -1,1 +1,1 @@
-FROM pangeo/pangeo-notebook:9d0723d
+FROM pangeo/base-image:master
