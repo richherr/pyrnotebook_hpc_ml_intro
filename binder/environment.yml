@@ -28,7 +28,6 @@ dependencies:
   - pprintpp
   - pyspark
   - findspark
-  - h2o
   - libgcc
   - pandas-profiling
   - rpy2                         
