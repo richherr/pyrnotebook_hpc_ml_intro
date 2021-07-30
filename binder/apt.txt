@@ -16,7 +16,6 @@ scala
 dvipng
 ghostscript
 texlive-fonts-recommended
-texlive-generic-recommended
 texlive-latex-base
 texlive-latex-extra
 texlive-latex-recommended
@@ -28,7 +27,6 @@ cm-super
 freetds-bin
 krb5-user
 ldap-utils
-libffi6
 libsasl2-2
 libsasl2-modules
 libssl1.1
