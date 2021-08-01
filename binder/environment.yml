@@ -11,11 +11,11 @@ channels:
   
 dependencies:
 
-#  - xarray
-#  - bottleneck
+  - xarray
+  - bottleneck
   - git
-#   - gcc_linux-64
-#   - gxx_linux-64
+  - gcc_linux-64 
+  - gxx_linux-64
   - jupyter-server-proxy 
   - ipywidgets
   - python-graphviz
